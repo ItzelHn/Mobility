@@ -10,3 +10,7 @@ Para cambiar a la rama que contiene el archivo json:
 
 Para cambiar a la rama que contiene la conexión a la base de datos de sql:
     Ejecutar git switch mysqldb
+    
+** Para crear nuevos vehículos, ejecutar el archivo create_vehicles.py
+** Para verificar que el archivo json db_test.json se actualiza cada vez que se hacen cambios en las propiedades de un vehículo,
+   ejecutar el archivo main.py
