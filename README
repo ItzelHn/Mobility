@@ -1,0 +1,12 @@
+
+Esta carpeta contiene el repositorio descargado de https://github.com/cope2012/micro_mobility
+
+Para hacer fetch en el repositorio:
+	Ejecutar git fetch --all 
+	(se puede ver que hay 2 ramas, una en donde se implementó la base de datos con el archivo json y otra rama donde se cambia al uso de mysql)
+
+Para cambiar a la rama que contiene el archivo json:
+    Ejecutar git switch json-db
+
+Para cambiar a la rama que contiene la conexión a la base de datos de sql:
+    Ejecutar git switch mysqldb

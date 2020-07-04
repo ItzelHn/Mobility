@@ -1,0 +1,27 @@
+{
+  "vehicles": [
+    {
+      "id": "ac595ddc-b834-11ea-b294-0560677e1e5c",
+      "type": "scooter",
+      "battery": 90,
+      "status": "locked",
+      "current_speed": 0,
+      "needs_charge": false
+    },
+    {
+      "id": "0593726c-bd8e-11ea-b458-cfb85607d23d",
+      "type": "bicycle",
+      "status": "locked",
+      "current_speed": 0,
+      "maintenance": false
+    },
+    {
+      "id": "26e2d8b8-bd93-11ea-b458-cfb85607d23d",
+      "type": "electricbicycle",
+      "battery": 80,
+      "status": "locked",
+      "current_speed": 0,
+      "maintenance": false
+    }
+  ]
+}
